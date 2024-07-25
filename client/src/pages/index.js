@@ -1,0 +1,17 @@
+export { default as Login } from "./Login";
+export { default as Signup } from "./Signup";
+export { default as Home } from "./Home";
+export { default as Problems } from "./Problems";
+export { default as Problem } from "./Problem";
+export { default as AddProblem } from "./AddProblem";
+export { default as UpdateProblem } from "./UpdateProblem";
+export { default as DeleteProblem } from "./DeleteProblem";
+export { default as AdminLogin } from "./AdminLogin";
+export { default as AdminSignup } from "./AdminSignup";
+export { default as UserProfile } from "./UserProfile";
+export { default as Leaderboard } from "./Leaderboard";
+export { default as ForgotPassword } from "./ForgotPassword";
+export { default as OtpFillForm } from "./OtpFillForm";
+export { default as UpdatePassword } from "./UpdatePassword";
+export { default as ContactUs } from "./ContactUs";
+export { default as AboutUs } from "./AboutUs";
